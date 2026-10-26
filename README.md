@@ -10,7 +10,7 @@ Adresler (yayınlandıktan sonra):
 
 | Ne | Adres |
 |---|---|
-| Gizlilik politikası (App Store "Privacy Policy URL") | https://behrank.github.io/ElementGame/privacy.html |
-| Kullanım koşulları | https://behrank.github.io/ElementGame/terms.html |
-| İletişim / destek (App Store "Support URL") | https://behrank.github.io/ElementGame/contact.html |
+| Gizlilik politikası (App Store "Privacy Policy URL") | https://behrank.github.io/Molekit/privacy.html |
+| Kullanım koşulları | https://behrank.github.io/Molekit/terms.html |
+| İletişim / destek (App Store "Support URL") | https://behrank.github.io/Molekit/contact.html |
 | Belirli dil | sonuna `?lang=de` ekle, ör. `privacy.html?lang=de` |
